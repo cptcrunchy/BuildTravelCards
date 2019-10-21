@@ -410,6 +410,17 @@ const response = [
         category: 'family',
         copy:
             'End 2019 with a party you’ll not soon forget! The Marina Bay Singapore Countdown returns, to usher in the new year with fireworks displays lighting up the night sky alongside a host of exciting activities on the streets.'
+    },
+    {
+        name: 'Get a Deep Dish Pizza in Chicago',
+        id: 38,
+        image: 'chicago.jpg',
+        dateFrom: 'Novemeber 23rd 2019',
+        dateTo: 'November 24th 2020',
+        guests: 3,
+        category: 'family',
+        copy:
+            'Enjoy a slice of Chicago\'s famous deep dish pizza. Take a walk down Navy Pier or just enjoy the chicago sky line.'
     }
 ]
 
