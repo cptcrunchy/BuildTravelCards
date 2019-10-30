@@ -421,6 +421,17 @@ const response = [
         category: 'family',
         copy:
             'Enjoy a slice of Chicago\'s famous deep dish pizza. Take a walk down Navy Pier or just enjoy the chicago sky line.'
+    },
+    {
+        name: 'Take it easy in the Big Easy!',
+        id: 39,
+        image: 'mardi-gras.jpg',
+        dateFrom: 'February 25th 2020',
+        dateTo: 'February 25th 2020',
+        guests: 5,
+        category: 'adventure',
+        copy:
+            'In 2020, Mardi Gras Day is February 25. Fat Tuesday is the last day of the Carnival season as it always falls the day before Ash Wednesday, the first day of Lent.'
     }
 ]
 
